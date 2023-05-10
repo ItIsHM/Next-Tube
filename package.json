@@ -1,0 +1,42 @@
+{
+
+  "name": "next-downloader",
+
+  "version": "1.0.0",
+
+  "private": true,
+
+  "scripts": {
+
+    "dev": "next dev",
+
+    "build": "next build",
+
+    "start": "next start"
+
+  },
+
+  "dependencies": {
+
+    "child_process": "^1.0.2",
+
+    "express": "^4.17.1",
+
+    "fs": "0.0.1-security",
+
+    "next": "^11.1.2",
+
+    "react": "^17.0.2",
+
+    "react-dom": "^17.0.2"
+
+  },
+
+  "devDependencies": {
+
+    "next-transpile-modules": "^6.0.0"
+
+  }
+
+}
+
